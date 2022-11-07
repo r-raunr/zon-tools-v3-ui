@@ -4,7 +4,7 @@ const Button = ({
     name,
     onClick
 }) => (
-    <button onClick={onClick} className="btn">{name}</button>
+    <button onClick={onClick} className="_btn">{name}</button>
 );
 
 export default Button;

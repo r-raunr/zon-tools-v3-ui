@@ -12,7 +12,7 @@ var Button = function Button(_ref) {
     onClick = _ref.onClick;
   return /*#__PURE__*/_react.default.createElement("button", {
     onClick: onClick,
-    className: "btn"
+    className: "_btn"
   }, name);
 };
 var _default = Button;

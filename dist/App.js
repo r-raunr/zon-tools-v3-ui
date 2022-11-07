@@ -24,9 +24,9 @@ var App = function App() {
     flag = _useState2[0],
     setFlag = _useState2[1];
   return /*#__PURE__*/_react.default.createElement("div", {
-    className: "App"
+    className: "_App"
   }, /*#__PURE__*/_react.default.createElement("header", {
-    className: "App-header"
+    className: "_App-header"
   }, "Zon Tools rendered from React Micro-Service"), /*#__PURE__*/_react.default.createElement(_components.Button, {
     onClick: function onClick() {
       return setFlag(!flag);
