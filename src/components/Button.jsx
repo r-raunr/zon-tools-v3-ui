@@ -1,9 +1,10 @@
 import React from 'react';
 import '../styles/Button.css'
 const Button = ({
-    name
+    name,
+    onClick
 }) => (
-    <button className="btn">{name}</button>
+    <button onClick={onClick} className="btn">{name}</button>
 );
 
 export default Button;
