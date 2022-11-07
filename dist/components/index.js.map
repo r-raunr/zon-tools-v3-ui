@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","names":[],"sources":["../../src/components/index.js"],"sourcesContent":["import Button from './Button';\nexport { Button };\n"],"mappings":";;;;;;;;;;;AAAA;AAA8B"}
+{"version":3,"file":"index.js","names":[],"sources":["../../src/components/index.js"],"sourcesContent":["import Button from './Button';\nimport Header from \"./Header\";\nexport { Button, Header };\n"],"mappings":";;;;;;;;;;;;;;;;;AAAA;AACA;AAA8B"}
