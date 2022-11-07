@@ -41,5 +41,12 @@
     "@babel/core": "^7.20.2",
     "@babel/preset-env": "^7.20.2",
     "cross-env": "^7.0.3"
+  },
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "files": [ "dist", "README.md" ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r-raunr/zon-tools-v3-ui.git"
   }
 }
