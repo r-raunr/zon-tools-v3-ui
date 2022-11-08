@@ -3,12 +3,12 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-Object.defineProperty(exports, "App", {
+Object.defineProperty(exports, "ZonToolsUI", {
   enumerable: true,
   get: function get() {
-    return _App.default;
+    return _ZonToolsUI.default;
   }
 });
-var _App = _interopRequireDefault(require("./App"));
+var _ZonToolsUI = _interopRequireDefault(require("./ZonToolsUI"));
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 //# sourceMappingURL=index.js.map
